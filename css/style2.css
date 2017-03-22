@@ -12,16 +12,6 @@ main,article,section,header,{
 	width: 100%;
 	float: left;
 }
-
-h2{
-	font-family: 'Audiowide', cursive;
-	text-decoration: none;
-	font-size:1.8em;
-	letter-spacing: 0.4em;
-	font-weight:bold;
-	color: #000;
-	opacity: 0.8;
-}
 nav{
 	width: 100%;
 	height: 40px;
@@ -101,20 +91,7 @@ p {
 	position: relative;
 	word-wrap:break-word;
 }
-figure figcaption div h1 {
-	color: #fff;
-}
-figure figcaption div p{
-	color: #fff;
-}
-.slide{
-	opacity: 0.8;
 
-}
-
-.slide:hover{
-	opacity: 1;
-}
 #black {
 	width: 1360px;
 	height: 850px;
@@ -145,52 +122,12 @@ figure figcaption div p{
 	margin:auto;
 }
 
-h1 {margin: 0;color:#fff;}
 
 #ii,#iii,#iiii,#iiiii{
 	color:#fff;opacity: 1;
 }
-body { padding: 0; }
-
-a:link {color:#FFF:;}
-a:visited {color:#fff;}
-a:hover {color:#FFF;} 
-a:active {color:#FFF;} 
 
 
-.FineItems{
-	font-family: 'Audiowide', cursive;
-	text-decoration: none;
-	text-align: center;
-	line-height: 140px;
-  	width: 100%;
-	background-color:#000;
-  	opacity: 0.3;
-
- }
- .cover{
- 	background-color: #000;
-	max-width: 1300px;
- 	max-height: 1300px;
- 	z-index: 9999;
- }
-iframe{
-  	width: 100%;
-  	height: 100%;
-}
-.video{
-  	position: fixed; z-index: -99;
-  	width: 100%;
-  	height: 100%;
-  	margin: 0px 0px 0px 0px;
-  	padding: 0;
-}
-.ooop{
-	z-index: -99;
-  	width: 100%;
-  	height: 100%;
-	margin: 0;
-}
 
 #Declare{
 	text-align: center;
@@ -202,17 +139,5 @@ iframe{
 	
 	}
 
-.KeyboardVideo{
-	width: 100%;
-	height: 100%;
-}
-.item{
-	margin: 0px;
-	max-height: 3000px;
-	height: 3000px;
-	max-height: 2000px;
-}
-video{
-	position: fixed; z-index: -9999;
-  	width: 110%;
-}
+
+
